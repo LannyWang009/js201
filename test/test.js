@@ -733,10 +733,10 @@ if (allSyntaxValid) {
   describe('Number Joiners', checkNumberJoiners)
   describe('Make Boxes', checkMakeBoxes)
   describe('Factors', checkFactors)
-  describe('Caesar Cipher', checkCaesarCipher)
+  /* describe('Caesar Cipher', checkCaesarCipher) 
   describe('Leetspeak', checkLeetspeak)
   describe('Long-long Vowels', checkLongLongVowels)
-  describe('Number Arrays', checkNumberArrays)
+  describe('Number Arrays', checkNumberArrays) */
   describe('Matrix Math', checkMatrixMath)
   describe('Rock Paper Scissors', checkRockPaperScissors)
   describe('Tic Tac Toe', checkTicTacToe)

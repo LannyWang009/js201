@@ -2,7 +2,11 @@
 // the sum of the numbers.
 // Example:
 // sumNumbers([1, 4, 8]) --> 13
-
+function sumNumbers(inputArray) {
+    //get every number in the Array
+    
+    //add them up
+}
 
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

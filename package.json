@@ -9,6 +9,7 @@
     "url": "git://github.com/oakmac/js201-exercises.git"
   },
   "dependencies": {
+    "@types/mathjs": "^4.4.1",
     "esprima": "4.0.1",
     "fs-plus": "3.0.2",
     "glob": "7.1.3",
