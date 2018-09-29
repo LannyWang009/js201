@@ -4,11 +4,15 @@
 // > matrixAdd([[1, 3], [2, 4]], [[5, 2], [1, 0]])
 // [ [ 6, 5 ], [ 3, 4 ] ]
 
-var myMatrix = [];
-for (var i = 0; i < 2; i++) {
-    matrix[i] = new Array(2);
+function matrixAdd(m1, m2){
+    for(var i=0; i<m1.length; i++){
+        for(var j=0; j<m2.length; j++){
+            m3[i][j] = m1[i][j] + m2[i][j];
+        }
+    }
+    return m3
 }
-console.log(matrixAdd([[1,3], [2,4]],[[5,2], [1,0]]))
+console.log(matrixAdd([[1,3], [2,4]]),[[5,2], [1,0]])
 
 
     
